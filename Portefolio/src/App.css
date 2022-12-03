@@ -1,0 +1,52 @@
+.row{
+  margin: 0;
+}
+.btn-link{
+  color: #837E9F;
+}
+.btn-link:hover{
+  color: #bdbad2;
+}
+.card {
+  background-color: #302F3D;
+  color: #837E9F;
+  width: 348px;
+  height: 292px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+.cardtec {
+  background-color: #302F3D;
+  color: #837E9F;
+  width: 348px;
+  height: 200px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+.cardLinks {
+  background-color: #302F3D;
+  color: #837E9F;
+  width: 348px;
+  height: 400px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+
+p{ 
+  color: #837E9F;
+}
+.iconcolor{
+ color: #837E9F;
+}
+.read-the-docs {
+  color: #888;
+}
+
+.cardtopo {
+  background-color: #302F3D;
+  color: #837E9F;
+  width: 952px;
+  height: 86px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
