@@ -4,6 +4,8 @@ import { MyProjects } from './Components/MyProjects'
 import { Cardlinks} from './Components/CardLinks'
 import {CardTec} from './Components/CardTec'
 import { CardProjects } from './Components/CardProjects'
+import { CardExperiencias } from './Components/CardExperiencias'
+import { CardEducacao } from './Components/CardEducacao'
 function App() {
   return (
     <div className="App">
@@ -12,6 +14,8 @@ function App() {
         <CardProfile />
         <Cardlinks />
         <CardTec />
+        <CardExperiencias />
+        <CardEducacao />
         </div>
         <div className="col">
           <div className="d-flex">
@@ -19,7 +23,7 @@ function App() {
           </div>
           <div className="d-inline-block">
             <CardProjects tituloProjeto="Projeto número Um" descricao="O meu primeiro projeto começa com html css e Javascript" /> 
-            <CardProjects tituloProjeto="Projeto número dois" descricao="O meu primeiro projeto começa com html css e Javascrip" />  
+            <CardProjects tituloProjeto="Projeto número dois" descricao="O meu segundo projeto é muito 'Cool' envolve React" />  
           </div>
         </div>  
       </div>

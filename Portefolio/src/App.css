@@ -19,7 +19,7 @@
   background-color: #302F3D;
   color: #837E9F;
   width: 348px;
-  height: 200px;
+  height: auto;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
   margin-bottom: 50px;
@@ -28,7 +28,7 @@
   background-color: #302F3D;
   color: #837E9F;
   width: 348px;
-  height: 400px;
+  height: auto;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
@@ -36,7 +36,7 @@
   background-color: #302F3D;
   color: #837E9F;
   width: 461px;
-  height: 186px;
+  height: auto;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
   margin-right: 25px;
