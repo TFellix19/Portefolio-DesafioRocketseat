@@ -16,7 +16,7 @@ export function CardEducacao() {
                         </li>
                         <li>
                             <b>Escola Secundária Emidio Navarro Viseu</b><br />
-                            <label>2018 março-maio</label>  
+                            <label>2017-2020</label>  
                             <label>Curso Técnico de Multimedia</label>
                         </li>
                     </ul>
